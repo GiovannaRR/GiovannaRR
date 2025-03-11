@@ -2,7 +2,7 @@
 Olá! Eu sou a Giovanna
 
 🎓 Estudante de Ciência da Computação na **Universidade Estadual do Norte do Paraná (UENP)**  
-📚 Atualmente no **segundo ano** do curso  
+📚 Atualmente no **terceiro ano** do curso  
 💻 Estudando **C, Python, CSS e HTML**
 
 
